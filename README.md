@@ -15,11 +15,20 @@ How it works:
   - Automated builds using GitHub Actions
  
     Error Handling
+    
     The app validates:
     - Empty input
     - Incorrect spelling
     - Out-of-range values
+      
     Constructive messages guide the user to correct input
 
 Testing 
 - GitHub Actions ensures the app builds successfully
+
+
+YouTube video link:
+[https://youtu.be/mUKguuBhIvY](url)
+
+![pic](https://github.com/user-attachments/assets/850f4b66-8540-4289-abd0-4d6f7e03f919)
+
