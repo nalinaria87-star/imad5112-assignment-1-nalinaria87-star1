@@ -1,4 +1,4 @@
-8gbStudent Number: ST10520644
+Student Number: ST10520644
 
 
 App Name: Social Sparks
