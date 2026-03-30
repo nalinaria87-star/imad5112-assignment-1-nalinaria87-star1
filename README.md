@@ -1,4 +1,4 @@
-Student Number: ST10520644
+8gbStudent Number: ST10520644
 
 
 App Name: Social Sparks
@@ -31,7 +31,7 @@ Testing
 
 
 YouTube video link:
-[https://youtu.be/mUKguuBhIvY](url)
+https://youtu.be/mUKguuBhIvY?si=KrdWCTiU_i0L-U4R
 
 ![pic](https://github.com/user-attachments/assets/850f4b66-8540-4289-abd0-4d6f7e03f919)
 
