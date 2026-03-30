@@ -1,3 +1,6 @@
+Student Number: ST10520644
+
+
 App Name: Social Sparks
 
 Purpose: This app provides users with social interaction suggestions based on the time of day entered
